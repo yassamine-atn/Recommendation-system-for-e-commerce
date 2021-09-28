@@ -1,0 +1,2 @@
+include product_similarity/*.pickle
+include product_similarity/*.model
